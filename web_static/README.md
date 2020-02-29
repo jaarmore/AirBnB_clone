@@ -71,5 +71,8 @@ HTML page that displays a header, footer, a filters box with dropdown and result
 ### 8. More details - 8-index.html
 HTML page that displays a header, a footer, a filter box (dropdown list) and the result of the search.
 
+## Final Result
+![Final Result](8-index.png "AirBnB clone - Web static")
+
 ## AUTHOR
 **_Jackson Moreno_**
